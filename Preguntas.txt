@@ -1,0 +1,19 @@
+1. Consultar sobre ejemplos del uso Fetch= LAZY.
+Tuve algunos inconvenientes durante el uso en el ejercicio de la veterinaria. Podia crear la veterinaria y listar veterinarias. En Mascotas, creaba a partir del DTO y guardaba correctamente, pero al ejecutar listar todas las mascotas se presentaba un error 500. Quitando la propiedad Fetch=LAZY del ManyToOne, ya hacia la consulta y salia la mascota con su respectiva veterinaria asignada. CLASE 33 o 34.
+[[YA SE SOLUCIONÓ CON LA RESPUESTA FINAL DE FACUNDO EL 2022-06-24 POR DISCORD]]
+
+
+2. Consultar por Jackson y Mapstruct
+No conocia Jackson y luego de consultar, parece que Jackson es más manejable, practico y rapido para usar. Sin embargo, quisiera saber qué define si usar Jackson o Mapstruct, porque aparentemente cumplen la misma funcionalidad y ya he visto en 2 empresas la implementación de Mapstruct.
+
+3. Consultar por API enfocada al dominio, al hacer uso de DTOs es igual que tener enfoque al dominio?
+
+4. Si en algun momento hacen el requerimiento de:
+	- implementar un servicio crear usuario con JPA
+	- implementar un servicio consultar usuario con JPQL (Query de JAVA Persistence)
+	- implementar un procedimiento masivo, por procesos almacenados con JDBC/PLSQL
+
+	¿Cómo debería integrar las diferentes implementaciones?
+	hacer los metodos en la interfaz general de servicio (ej. IUsuarioService) y luego al implementar en UsuarioServiceImpl internamente modifico el tipo de conexion y metodos de persistencia a utilizar?
+
+	¿Afecta en algo juntar todas las implementaciones o se debe separar en la estructura del proyecto cada tipo de consultas que se solicitan de la parte tecnica? y ¿en cuál capa seria recomendable poner estos tipos especificos de consulta? segun he visto, yo consideraria que en Service o en Implementacion.

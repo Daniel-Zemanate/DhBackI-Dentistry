@@ -1,0 +1,841 @@
+[2022-06-29 14:10:55] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-29 14:10:55] [INFO ] [AddressServiceImplement:41] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-29 14:11:02] [INFO ] [AddressServiceImplement:75] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-29 14:11:02] [INFO ] [AddressServiceImplement:47] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-29 14:11:02] [INFO ] [AddressServiceImplement:55] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-29 14:11:02] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-29 14:11:02] [INFO ] [AddressServiceImplement:41] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-29 14:11:02] [INFO ] [AddressServiceImplement:83] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-29 14:11:28] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:11:28] [INFO ] [DentistServiceImplement:66] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-29 14:11:28] [INFO ] [DentistServiceImplement:74] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-29 14:11:28] [INFO ] [DentistServiceImplement:46] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:11:32] [INFO ] [PatientServiceImplement:33] Start: -createPatient- in <<PatientServiceImplement>>
+[2022-06-29 14:11:32] [INFO ] [PatientServiceImplement:40] End: -createPatient- in <<PatientServiceImplement>>
+[2022-06-29 14:11:38] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:11:38] [INFO ] [TurnServiceImplement:54] End: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:13:12] [INFO ] [PatientServiceImplement:46] Start: -readPatientById- in <<PatientServiceImplement>>
+[2022-06-29 14:13:12] [INFO ] [PatientServiceImplement:54] End: -readPatientById- in <<PatientServiceImplement>>
+[2022-06-29 14:13:26] [INFO ] [DentistServiceImplement:52] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-29 14:13:26] [INFO ] [DentistServiceImplement:60] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-29 14:13:39] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:13:39] [INFO ] [TurnServiceImplement:54] End: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:20:04] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-29 14:20:04] [INFO ] [AddressServiceImplement:41] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-29 14:20:09] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:20:09] [INFO ] [DentistServiceImplement:66] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-29 14:20:09] [INFO ] [DentistServiceImplement:74] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-29 14:20:09] [INFO ] [DentistServiceImplement:46] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:20:25] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:20:25] [INFO ] [DentistServiceImplement:66] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-29 14:20:25] [INFO ] [DentistServiceImplement:74] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-29 14:20:25] [INFO ] [DentistServiceImplement:46] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:20:36] [INFO ] [PatientServiceImplement:33] Start: -createPatient- in <<PatientServiceImplement>>
+[2022-06-29 14:20:56] [INFO ] [PatientServiceImplement:33] Start: -createPatient- in <<PatientServiceImplement>>
+[2022-06-29 14:20:56] [INFO ] [PatientServiceImplement:40] End: -createPatient- in <<PatientServiceImplement>>
+[2022-06-29 14:21:07] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:21:16] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:21:16] [INFO ] [TurnServiceImplement:56] End: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:21:22] [INFO ] [TurnServiceImplement:76] Start: -readAllTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:21:22] [INFO ] [TurnServiceImplement:84] End: -readAllTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:21:53] [INFO ] [TurnServiceImplement:76] Start: -readAllTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:21:53] [INFO ] [TurnServiceImplement:84] End: -readAllTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:23:01] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:05] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:09] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:15] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:15] [INFO ] [TurnServiceImplement:56] End: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:19] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:23] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:30] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:30] [INFO ] [TurnServiceImplement:56] End: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:31] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:31] [INFO ] [TurnServiceImplement:56] End: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:31] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:31] [INFO ] [TurnServiceImplement:56] End: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:32] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:32] [INFO ] [TurnServiceImplement:56] End: -createTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:37] [INFO ] [TurnServiceImplement:76] Start: -readAllTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:37] [INFO ] [TurnServiceImplement:84] End: -readAllTurn- in <<TurnServiceImplement>>
+[2022-06-29 14:24:50] [INFO ] [TurnServiceImplement:90] Start: -readAllTurnByDentistId- in <<TurnServiceImplement>>
+[2022-06-29 14:24:50] [INFO ] [TurnServiceImplement:111] End: -readAllTurnByDentistId- in <<TurnServiceImplement>>
+[2022-06-29 14:24:58] [INFO ] [TurnServiceImplement:117] Start: -readAllTurnByPatientId- in <<TurnServiceImplement>>
+[2022-06-29 14:24:58] [INFO ] [TurnServiceImplement:139] End: -readAllTurnByPatientId- in <<TurnServiceImplement>>
+[2022-06-29 14:25:05] [INFO ] [TurnServiceImplement:117] Start: -readAllTurnByPatientId- in <<TurnServiceImplement>>
+[2022-06-29 14:25:05] [INFO ] [TurnServiceImplement:139] End: -readAllTurnByPatientId- in <<TurnServiceImplement>>
+[2022-06-29 14:25:16] [INFO ] [TurnServiceImplement:117] Start: -readAllTurnByPatientId- in <<TurnServiceImplement>>
+[2022-06-29 14:25:16] [INFO ] [TurnServiceImplement:139] End: -readAllTurnByPatientId- in <<TurnServiceImplement>>
+[2022-06-29 14:25:22] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-29 14:25:22] [INFO ] [AddressServiceImplement:41] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-29 14:25:23] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-29 14:25:23] [INFO ] [AddressServiceImplement:41] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-29 14:25:24] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-29 14:25:24] [INFO ] [AddressServiceImplement:41] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-29 14:25:30] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:25:30] [INFO ] [DentistServiceImplement:66] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-29 14:25:30] [INFO ] [DentistServiceImplement:74] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-29 14:25:30] [INFO ] [DentistServiceImplement:46] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:25:33] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:25:33] [INFO ] [DentistServiceImplement:66] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-29 14:25:34] [INFO ] [DentistServiceImplement:74] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-29 14:25:34] [INFO ] [DentistServiceImplement:46] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:25:39] [INFO ] [DentistServiceImplement:95] Start: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:25:39] [INFO ] [DentistServiceImplement:52] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-29 14:25:39] [INFO ] [DentistServiceImplement:60] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-29 14:25:39] [INFO ] [DentistServiceImplement:66] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-29 14:25:39] [INFO ] [DentistServiceImplement:74] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-29 14:25:39] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:25:39] [INFO ] [DentistServiceImplement:46] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:25:39] [INFO ] [DentistServiceImplement:114] End: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:25:50] [INFO ] [DentistServiceImplement:80] Start: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-29 14:25:50] [INFO ] [DentistServiceImplement:89] End: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 09:50:46] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 09:50:47] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 09:54:11] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 09:54:11] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 09:59:34] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 09:59:34] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 09:59:39] [INFO ] [AddressServiceImplement:57] Start: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 09:59:39] [INFO ] [AddressServiceImplement:65] End: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:01:37] [INFO ] [AddressServiceImplement:57] Start: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:01:38] [INFO ] [AddressServiceImplement:65] End: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:01:41] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:01:41] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:02:42] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:02:42] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:07:50] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:07:50] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:08:43] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:08:43] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:09:32] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:09:32] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:10:16] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:10:16] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:20:44] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:20:44] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:22:00] [INFO ] [AddressServiceImplement:71] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:22:00] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 10:22:00] [INFO ] [AddressServiceImplement:51] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 10:22:00] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:22:00] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:22:00] [INFO ] [AddressServiceImplement:77] Created successfully
+[2022-06-30 10:22:00] [INFO ] [AddressServiceImplement:82] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:22:17] [INFO ] [AddressServiceImplement:71] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:22:17] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 10:23:54] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:23:54] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:23:58] [INFO ] [AddressServiceImplement:71] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:23:58] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 10:38:33] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:38:34] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:38:42] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:38:42] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:38:46] [INFO ] [AddressServiceImplement:63] Start: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:38:46] [INFO ] [AddressServiceImplement:71] End: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:39:01] [INFO ] [AddressServiceImplement:77] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:39:01] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 10:39:01] [INFO ] [AddressServiceImplement:57] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 10:39:01] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:39:01] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:39:01] [INFO ] [AddressServiceImplement:83] Created successfully
+[2022-06-30 10:39:01] [INFO ] [AddressServiceImplement:88] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:39:06] [INFO ] [AddressServiceImplement:77] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:39:06] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 10:48:16] [INFO ] [AddressServiceImplement:44] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 10:48:16] [INFO ] [AddressServiceImplement:52] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 10:48:46] [INFO ] [AddressServiceImplement:72] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:48:46] [INFO ] [AddressServiceImplement:44] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 10:49:18] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:49:18] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:49:23] [INFO ] [AddressServiceImplement:72] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:49:23] [INFO ] [AddressServiceImplement:44] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 10:50:11] [INFO ] [AddressServiceImplement:72] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 10:50:11] [INFO ] [AddressServiceImplement:44] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 11:09:15] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 11:09:15] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 11:09:19] [INFO ] [AddressServiceImplement:71] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 11:09:19] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 11:09:32] [INFO ] [AddressServiceImplement:71] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 11:09:32] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 11:09:32] [INFO ] [AddressServiceImplement:51] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 11:09:32] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 11:09:32] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 11:09:32] [INFO ] [AddressServiceImplement:77] Created successfully
+[2022-06-30 11:09:32] [INFO ] [AddressServiceImplement:82] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 11:09:36] [INFO ] [AddressServiceImplement:71] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 11:09:36] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 11:09:36] [INFO ] [AddressServiceImplement:51] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 11:09:36] [ERROR] [AddressServiceImplement:79] Something went wrong when executing -updateAddress- Not found ID
+[2022-06-30 11:09:36] [INFO ] [AddressServiceImplement:82] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 11:10:42] [INFO ] [AddressServiceImplement:71] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 11:10:42] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:02:22] [INFO ] [AddressServiceImplement:77] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:02:22] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:02:22] [ERROR] [AddressServiceImplement:53] NULL ID -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:02:22] [INFO ] [AddressServiceImplement:57] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:02:22] [ERROR] [AddressServiceImplement:85] Something went wrong when executing -updateAddress- Not found ID
+[2022-06-30 12:02:22] [INFO ] [AddressServiceImplement:88] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:05:32] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:05:32] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:05:32] [ERROR] [AddressServiceImplement:53] NULL ID -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:05:38] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:05:38] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:05:38] [ERROR] [AddressServiceImplement:53] NULL ID -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:08:11] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:08:11] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:08:11] [ERROR] [AddressServiceImplement:53] NULL ID -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:08:11] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:08:11] [ERROR] [AddressServiceImplement:86] Something went wrong when executing -updateAddress- Not found ID
+[2022-06-30 12:08:11] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:08:42] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:08:42] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:08:46] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:08:46] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:08:46] [ERROR] [AddressServiceImplement:53] NULL ID -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:08:46] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:08:46] [ERROR] [AddressServiceImplement:86] Something went wrong when executing -updateAddress- Not found ID
+[2022-06-30 12:08:46] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:08:49] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:08:49] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:08:49] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:08:49] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:08:49] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:08:49] [INFO ] [AddressServiceImplement:84] Created successfully
+[2022-06-30 12:08:49] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:09:02] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:09:02] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:09:02] [ERROR] [AddressServiceImplement:53] NULL ID -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:09:02] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:09:02] [ERROR] [AddressServiceImplement:86] Something went wrong when executing -updateAddress- Not found ID
+[2022-06-30 12:09:02] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:10:11] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:10:11] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:10:15] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:10:15] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:10:20] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:10:20] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:10:24] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:10:24] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:16:21] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:16:21] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:16:28] [INFO ] [AddressServiceImplement:64] Start: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:16:28] [INFO ] [AddressServiceImplement:72] End: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:16:33] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:16:33] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:16:33] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:16:33] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:16:33] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:16:33] [INFO ] [AddressServiceImplement:84] Created successfully
+[2022-06-30 12:16:33] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:16:37] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:16:37] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:16:37] [ERROR] [AddressServiceImplement:53] NULL ID -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:16:37] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:16:37] [ERROR] [AddressServiceImplement:86] Something went wrong when executing -updateAddress- Not found ID
+[2022-06-30 12:16:37] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:16:45] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:16:45] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:16:45] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:16:45] [ERROR] [AddressServiceImplement:86] Something went wrong when executing -updateAddress- Not found ID
+[2022-06-30 12:16:45] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:16:48] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:16:48] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:16:48] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:16:48] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:16:48] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:16:48] [INFO ] [AddressServiceImplement:84] Created successfully
+[2022-06-30 12:16:48] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:17:04] [INFO ] [AddressServiceImplement:95] Start: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:17:04] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:17:04] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:17:04] [INFO ] [AddressServiceImplement:104] End: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:17:08] [INFO ] [AddressServiceImplement:95] Start: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:17:08] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:17:08] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:17:08] [INFO ] [AddressServiceImplement:104] End: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:20:24] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:24] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:25] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:25] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:26] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:26] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:27] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:27] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:31] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:20:31] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:20:38] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:20:38] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:20:41] [INFO ] [AddressServiceImplement:64] Start: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:41] [INFO ] [AddressServiceImplement:72] End: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:46] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:46] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:20:46] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:20:46] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:46] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:46] [INFO ] [AddressServiceImplement:84] Created successfully
+[2022-06-30 12:20:46] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:51] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:20:51] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:20:51] [ERROR] [AddressServiceImplement:53] NULL ID -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:20:51] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:20:51] [ERROR] [AddressServiceImplement:86] Something went wrong when executing -updateAddress- Not found ID
+[2022-06-30 12:20:51] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:21:08] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:21:08] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:21:08] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:21:08] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:21:08] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:21:08] [INFO ] [AddressServiceImplement:84] Created successfully
+[2022-06-30 12:21:08] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:21:12] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:21:12] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:21:12] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:21:12] [ERROR] [AddressServiceImplement:86] Something went wrong when executing -updateAddress- Not found ID
+[2022-06-30 12:21:12] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:23:17] [INFO ] [AddressServiceImplement:95] Start: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:23:17] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:23:17] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:23:17] [ERROR] [AddressServiceImplement:103] Something went wrong when executing -deleteAddressById- Not found ID
+[2022-06-30 12:23:17] [INFO ] [AddressServiceImplement:106] End: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:23:22] [INFO ] [AddressServiceImplement:95] Start: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:23:22] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:23:22] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:23:22] [INFO ] [AddressServiceImplement:106] End: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:27:21] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:27:21] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:27:30] [INFO ] [AddressServiceImplement:64] Start: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:27:30] [INFO ] [AddressServiceImplement:72] End: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:28:59] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:28:59] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:29:03] [INFO ] [AddressServiceImplement:64] Start: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:29:03] [INFO ] [AddressServiceImplement:72] End: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:30:56] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:30:56] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:31:18] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:31:18] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:31:18] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:31:18] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:31:18] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:31:18] [INFO ] [AddressServiceImplement:84] Created successfully
+[2022-06-30 12:31:18] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:31:22] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:31:22] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:31:22] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:31:22] [ERROR] [AddressServiceImplement:86] Something went wrong when executing -updateAddress- Not found ID
+[2022-06-30 12:31:22] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:31:26] [INFO ] [AddressServiceImplement:64] Start: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:31:26] [INFO ] [AddressServiceImplement:72] End: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:38:13] [INFO ] [AddressServiceImplement:64] Start: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:38:13] [INFO ] [AddressServiceImplement:72] End: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:38:17] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:38:17] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:38:17] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:38:17] [ERROR] [AddressServiceImplement:86] Something went wrong when executing -updateAddress- Not found ID
+[2022-06-30 12:38:17] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:38:25] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:38:25] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:38:25] [ERROR] [AddressServiceImplement:53] NULL ID -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:38:25] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:38:25] [ERROR] [AddressServiceImplement:86] Something went wrong when executing -updateAddress- Not found ID
+[2022-06-30 12:38:25] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:38:30] [INFO ] [AddressServiceImplement:78] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:38:30] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:38:30] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:38:30] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:38:30] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:38:30] [INFO ] [AddressServiceImplement:84] Created successfully
+[2022-06-30 12:38:30] [INFO ] [AddressServiceImplement:89] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:38:48] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:38:48] [INFO ] [AddressServiceImplement:37] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 12:39:02] [INFO ] [AddressServiceImplement:95] Start: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:39:02] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:39:02] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:39:02] [ERROR] [AddressServiceImplement:103] Something went wrong when executing -deleteAddressById- Not found ID
+[2022-06-30 12:39:02] [INFO ] [AddressServiceImplement:106] End: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:39:08] [INFO ] [AddressServiceImplement:95] Start: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:39:08] [INFO ] [AddressServiceImplement:43] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:39:08] [INFO ] [AddressServiceImplement:58] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 12:39:08] [INFO ] [AddressServiceImplement:106] End: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:18:06] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 15:18:06] [INFO ] [AddressServiceImplement:36] Created successfully
+[2022-06-30 15:18:06] [INFO ] [AddressServiceImplement:38] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 15:18:26] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 15:18:26] [INFO ] [AddressServiceImplement:36] Created successfully
+[2022-06-30 15:18:26] [INFO ] [AddressServiceImplement:38] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 15:18:28] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 15:18:28] [INFO ] [AddressServiceImplement:36] Created successfully
+[2022-06-30 15:18:28] [INFO ] [AddressServiceImplement:38] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 15:18:33] [INFO ] [AddressServiceImplement:44] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:18:33] [INFO ] [AddressServiceImplement:59] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:18:36] [INFO ] [AddressServiceImplement:65] Start: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 15:18:36] [INFO ] [AddressServiceImplement:73] End: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 15:18:49] [INFO ] [AddressServiceImplement:79] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 15:18:49] [INFO ] [AddressServiceImplement:44] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:18:49] [INFO ] [AddressServiceImplement:59] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:18:49] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 15:18:49] [INFO ] [AddressServiceImplement:36] Created successfully
+[2022-06-30 15:18:49] [INFO ] [AddressServiceImplement:38] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 15:18:49] [INFO ] [AddressServiceImplement:85] Updated successfully
+[2022-06-30 15:18:49] [INFO ] [AddressServiceImplement:90] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 15:18:53] [INFO ] [AddressServiceImplement:79] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 15:18:53] [INFO ] [AddressServiceImplement:44] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:18:53] [ERROR] [AddressServiceImplement:54] NULL ID -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:18:53] [INFO ] [AddressServiceImplement:59] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:18:53] [ERROR] [AddressServiceImplement:87] Something went wrong when executing -updateAddress- Not found ID
+[2022-06-30 15:18:53] [INFO ] [AddressServiceImplement:90] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 15:19:06] [INFO ] [AddressServiceImplement:96] Start: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:19:06] [INFO ] [AddressServiceImplement:44] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:19:06] [INFO ] [AddressServiceImplement:59] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:19:06] [ERROR] [AddressServiceImplement:104] Something went wrong when executing -deleteAddressById- Not found ID
+[2022-06-30 15:19:06] [INFO ] [AddressServiceImplement:107] End: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:19:11] [INFO ] [AddressServiceImplement:96] Start: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:19:11] [INFO ] [AddressServiceImplement:44] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:19:11] [INFO ] [AddressServiceImplement:59] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:19:11] [INFO ] [AddressServiceImplement:107] End: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 15:19:20] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:19:20] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:19:20] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:19:20] [ERROR] [DentistServiceImplement:46] Created successfully
+[2022-06-30 15:19:20] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:19:25] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:19:25] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:19:25] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:19:25] [ERROR] [DentistServiceImplement:49] Something went wrong when executing -createDentist- License already exist
+[2022-06-30 15:19:25] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:19:33] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:19:33] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:19:33] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:19:33] [ERROR] [DentistServiceImplement:46] Created successfully
+[2022-06-30 15:19:33] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:19:37] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:19:37] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:19:37] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:19:37] [ERROR] [DentistServiceImplement:46] Created successfully
+[2022-06-30 15:19:37] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:19:38] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:19:38] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:19:38] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:19:38] [ERROR] [DentistServiceImplement:49] Something went wrong when executing -createDentist- License already exist
+[2022-06-30 15:19:38] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:19:44] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:19:44] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:19:47] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:19:47] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:20:03] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:20:03] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:20:08] [INFO ] [DentistServiceImplement:103] Start: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:20:08] [INFO ] [DentistServiceImplement:112] End: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:20:52] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:20:52] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:20:52] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:20:52] [ERROR] [DentistServiceImplement:49] Something went wrong when executing -createDentist- License already exist
+[2022-06-30 15:20:52] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:20:56] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:20:56] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:20:56] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:20:56] [ERROR] [DentistServiceImplement:46] Created successfully
+[2022-06-30 15:20:56] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:21:18] [INFO ] [DentistServiceImplement:103] Start: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:21:18] [INFO ] [DentistServiceImplement:112] End: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:21:28] [INFO ] [DentistServiceImplement:118] Start: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:21:28] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:21:28] [ERROR] [DentistServiceImplement:74] NULL ID -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:21:28] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:21:28] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:21:28] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:21:28] [ERROR] [DentistServiceImplement:143] Something went wrong when executing -updateDentist- Not found ID
+[2022-06-30 15:21:28] [INFO ] [DentistServiceImplement:146] End: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:21:34] [INFO ] [DentistServiceImplement:118] Start: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:21:34] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:21:34] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:21:34] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:21:34] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:21:34] [ERROR] [DentistServiceImplement:143] Something went wrong when executing -updateDentist- Not found ID
+[2022-06-30 15:21:34] [INFO ] [DentistServiceImplement:146] End: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:21:38] [INFO ] [DentistServiceImplement:118] Start: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:21:38] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:21:38] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:21:38] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:21:38] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:21:38] [ERROR] [DentistServiceImplement:135] Something went wrong when executing -updateDentist- Already exist License
+[2022-06-30 15:21:38] [INFO ] [DentistServiceImplement:146] End: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:21:46] [INFO ] [DentistServiceImplement:118] Start: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:21:46] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:21:46] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:21:46] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:21:46] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:21:46] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:21:46] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:21:46] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:21:46] [ERROR] [DentistServiceImplement:46] Created successfully
+[2022-06-30 15:21:46] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:21:46] [INFO ] [DentistServiceImplement:146] End: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:22:31] [INFO ] [DentistServiceImplement:118] Start: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:22:31] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:22:31] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:22:31] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:22:31] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:22:31] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:22:31] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:22:31] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:22:31] [ERROR] [DentistServiceImplement:46] Created successfully
+[2022-06-30 15:22:31] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:22:31] [INFO ] [DentistServiceImplement:146] End: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:22:36] [INFO ] [DentistServiceImplement:118] Start: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:22:36] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:22:36] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:22:36] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:22:36] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:22:36] [ERROR] [DentistServiceImplement:135] Something went wrong when executing -updateDentist- Already exist License
+[2022-06-30 15:22:36] [INFO ] [DentistServiceImplement:146] End: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:22:49] [INFO ] [DentistServiceImplement:118] Start: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:22:49] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:22:49] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:22:49] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:22:49] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:22:49] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:22:49] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:22:49] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:22:49] [ERROR] [DentistServiceImplement:46] Created successfully
+[2022-06-30 15:22:49] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:22:49] [INFO ] [DentistServiceImplement:146] End: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:22:59] [INFO ] [DentistServiceImplement:118] Start: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:22:59] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:22:59] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:22:59] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:22:59] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:22:59] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:22:59] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:22:59] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 15:22:59] [ERROR] [DentistServiceImplement:46] Created successfully
+[2022-06-30 15:22:59] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:22:59] [INFO ] [DentistServiceImplement:146] End: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:23:05] [INFO ] [DentistServiceImplement:103] Start: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:23:05] [INFO ] [DentistServiceImplement:112] End: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 15:23:16] [INFO ] [DentistServiceImplement:152] Start: -deleteDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:23:16] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:23:16] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:23:16] [INFO ] [DentistServiceImplement:161] End: -deleteDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:23:24] [INFO ] [DentistServiceImplement:152] Start: -deleteDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:23:24] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:23:24] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 15:23:24] [INFO ] [DentistServiceImplement:161] End: -deleteDentistById- in <<DentistServiceImplement>>
+[2022-06-30 17:57:10] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 17:57:10] [INFO ] [AddressServiceImplement:36] Created successfully
+[2022-06-30 17:57:10] [INFO ] [AddressServiceImplement:38] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 17:57:13] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 17:57:13] [INFO ] [AddressServiceImplement:36] Created successfully
+[2022-06-30 17:57:13] [INFO ] [AddressServiceImplement:38] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 17:57:14] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 17:57:14] [INFO ] [AddressServiceImplement:36] Created successfully
+[2022-06-30 17:57:14] [INFO ] [AddressServiceImplement:38] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 17:57:16] [INFO ] [AddressServiceImplement:44] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 17:57:16] [INFO ] [AddressServiceImplement:59] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 17:57:19] [INFO ] [AddressServiceImplement:65] Start: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 17:57:19] [INFO ] [AddressServiceImplement:73] End: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 17:57:29] [INFO ] [AddressServiceImplement:79] Start: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 17:57:29] [INFO ] [AddressServiceImplement:44] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 17:57:29] [INFO ] [AddressServiceImplement:59] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 17:57:29] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 17:57:29] [INFO ] [AddressServiceImplement:36] Created successfully
+[2022-06-30 17:57:29] [INFO ] [AddressServiceImplement:38] End: -createAddress- in <<AddressServiceImplement>>
+[2022-06-30 17:57:29] [INFO ] [AddressServiceImplement:85] Updated successfully
+[2022-06-30 17:57:29] [INFO ] [AddressServiceImplement:90] End: -updateAddress- in <<AddressServiceImplement>>
+[2022-06-30 17:57:36] [INFO ] [AddressServiceImplement:96] Start: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 17:57:36] [INFO ] [AddressServiceImplement:44] Start: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 17:57:36] [INFO ] [AddressServiceImplement:59] End: -readAddressById- in <<AddressServiceImplement>>
+[2022-06-30 17:57:36] [INFO ] [AddressServiceImplement:107] End: -deleteAddressById- in <<AddressServiceImplement>>
+[2022-06-30 17:57:42] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:57:42] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 17:57:42] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 17:57:42] [INFO ] [DentistServiceImplement:46] Created successfully
+[2022-06-30 17:57:42] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:57:47] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:57:47] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 17:57:47] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 17:57:47] [INFO ] [DentistServiceImplement:46] Created successfully
+[2022-06-30 17:57:47] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:57:51] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:57:51] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 17:57:51] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 17:57:51] [INFO ] [DentistServiceImplement:46] Created successfully
+[2022-06-30 17:57:51] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:57:55] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 17:57:55] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 17:57:58] [INFO ] [DentistServiceImplement:103] Start: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:57:58] [INFO ] [DentistServiceImplement:112] End: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:58:06] [INFO ] [DentistServiceImplement:118] Start: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:58:06] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 17:58:06] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 17:58:06] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 17:58:06] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 17:58:06] [ERROR] [DentistServiceImplement:135] Something went wrong when executing -updateDentist- Already exist License
+[2022-06-30 17:58:06] [INFO ] [DentistServiceImplement:146] End: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:58:11] [INFO ] [DentistServiceImplement:118] Start: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:58:11] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 17:58:11] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 17:58:11] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 17:58:11] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 17:58:11] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:58:11] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 17:58:11] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-06-30 17:58:11] [INFO ] [DentistServiceImplement:46] Created successfully
+[2022-06-30 17:58:11] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:58:11] [INFO ] [DentistServiceImplement:146] End: -updateDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:58:18] [INFO ] [DentistServiceImplement:152] Start: -deleteDentistById- in <<DentistServiceImplement>>
+[2022-06-30 17:58:18] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 17:58:18] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 17:58:18] [INFO ] [DentistServiceImplement:161] End: -deleteDentistById- in <<DentistServiceImplement>>
+[2022-06-30 17:58:25] [INFO ] [DentistServiceImplement:103] Start: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:58:25] [INFO ] [DentistServiceImplement:112] End: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 17:58:28] [INFO ] [AddressServiceImplement:65] Start: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 17:58:28] [INFO ] [AddressServiceImplement:73] End: -readAllAddress- in <<AddressServiceImplement>>
+[2022-06-30 17:58:34] [INFO ] [PatientServiceImplement:33] Start: -createPatient- in <<PatientServiceImplement>>
+[2022-06-30 17:58:34] [INFO ] [PatientServiceImplement:79] Start: -readPatientByDni- in <<PatientServiceImplement>>
+[2022-06-30 17:58:34] [INFO ] [PatientServiceImplement:95] End: -readPatientByDni- in <<PatientServiceImplement>>
+[2022-06-30 17:58:34] [INFO ] [PatientServiceImplement:42] Created successfully
+[2022-06-30 17:58:34] [INFO ] [PatientServiceImplement:52] End: -createPatient- in <<PatientServiceImplement>>
+[2022-06-30 17:58:54] [INFO ] [PatientServiceImplement:33] Start: -createPatient- in <<PatientServiceImplement>>
+[2022-06-30 17:58:54] [INFO ] [PatientServiceImplement:79] Start: -readPatientByDni- in <<PatientServiceImplement>>
+[2022-06-30 17:58:54] [INFO ] [PatientServiceImplement:95] End: -readPatientByDni- in <<PatientServiceImplement>>
+[2022-06-30 17:58:54] [INFO ] [PatientServiceImplement:42] Created successfully
+[2022-06-30 17:58:54] [INFO ] [PatientServiceImplement:52] End: -createPatient- in <<PatientServiceImplement>>
+[2022-06-30 17:58:58] [INFO ] [PatientServiceImplement:33] Start: -createPatient- in <<PatientServiceImplement>>
+[2022-06-30 17:58:58] [INFO ] [PatientServiceImplement:79] Start: -readPatientByDni- in <<PatientServiceImplement>>
+[2022-06-30 17:58:58] [INFO ] [PatientServiceImplement:95] End: -readPatientByDni- in <<PatientServiceImplement>>
+[2022-06-30 17:58:58] [INFO ] [PatientServiceImplement:42] Created successfully
+[2022-06-30 17:58:58] [INFO ] [PatientServiceImplement:52] End: -createPatient- in <<PatientServiceImplement>>
+[2022-06-30 17:59:05] [INFO ] [PatientServiceImplement:33] Start: -createPatient- in <<PatientServiceImplement>>
+[2022-06-30 17:59:05] [INFO ] [PatientServiceImplement:79] Start: -readPatientByDni- in <<PatientServiceImplement>>
+[2022-06-30 17:59:05] [INFO ] [PatientServiceImplement:95] End: -readPatientByDni- in <<PatientServiceImplement>>
+[2022-06-30 17:59:05] [INFO ] [PatientServiceImplement:42] Created successfully
+[2022-06-30 17:59:05] [INFO ] [PatientServiceImplement:52] End: -createPatient- in <<PatientServiceImplement>>
+[2022-06-30 17:59:11] [INFO ] [PatientServiceImplement:58] Start: -readPatientById- in <<PatientServiceImplement>>
+[2022-06-30 17:59:11] [INFO ] [PatientServiceImplement:73] End: -readPatientById- in <<PatientServiceImplement>>
+[2022-06-30 17:59:20] [INFO ] [PatientServiceImplement:101] Start: -readAllPatient- in <<PatientServiceImplement>>
+[2022-06-30 17:59:20] [INFO ] [PatientServiceImplement:109] End: -readAllPatient- in <<PatientServiceImplement>>
+[2022-06-30 17:59:39] [INFO ] [PatientServiceImplement:115] Start: -updatePatient- in <<PatientServiceImplement>>
+[2022-06-30 17:59:39] [INFO ] [PatientServiceImplement:58] Start: -readPatientById- in <<PatientServiceImplement>>
+[2022-06-30 17:59:39] [INFO ] [PatientServiceImplement:73] End: -readPatientById- in <<PatientServiceImplement>>
+[2022-06-30 17:59:39] [INFO ] [PatientServiceImplement:79] Start: -readPatientByDni- in <<PatientServiceImplement>>
+[2022-06-30 17:59:39] [INFO ] [PatientServiceImplement:95] End: -readPatientByDni- in <<PatientServiceImplement>>
+[2022-06-30 17:59:39] [INFO ] [PatientServiceImplement:33] Start: -createPatient- in <<PatientServiceImplement>>
+[2022-06-30 17:59:39] [INFO ] [PatientServiceImplement:79] Start: -readPatientByDni- in <<PatientServiceImplement>>
+[2022-06-30 17:59:39] [INFO ] [PatientServiceImplement:95] End: -readPatientByDni- in <<PatientServiceImplement>>
+[2022-06-30 17:59:39] [INFO ] [PatientServiceImplement:42] Created successfully
+[2022-06-30 17:59:39] [INFO ] [PatientServiceImplement:52] End: -createPatient- in <<PatientServiceImplement>>
+[2022-06-30 17:59:39] [INFO ] [PatientServiceImplement:142] End: -updatePatient- in <<PatientServiceImplement>>
+[2022-06-30 18:00:11] [INFO ] [PatientServiceImplement:148] Start: -deletePatientById- in <<PatientServiceImplement>>
+[2022-06-30 18:00:11] [INFO ] [PatientServiceImplement:58] Start: -readPatientById- in <<PatientServiceImplement>>
+[2022-06-30 18:00:11] [INFO ] [PatientServiceImplement:73] End: -readPatientById- in <<PatientServiceImplement>>
+[2022-06-30 18:00:11] [INFO ] [PatientServiceImplement:157] End: -deletePatientById- in <<PatientServiceImplement>>
+[2022-06-30 18:00:15] [INFO ] [PatientServiceImplement:101] Start: -readAllPatient- in <<PatientServiceImplement>>
+[2022-06-30 18:00:15] [INFO ] [PatientServiceImplement:109] End: -readAllPatient- in <<PatientServiceImplement>>
+[2022-06-30 18:01:47] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:01:47] [INFO ] [TurnServiceImplement:54] Created successfully
+[2022-06-30 18:01:47] [INFO ] [TurnServiceImplement:64] End: -createTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:01:59] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:01:59] [INFO ] [TurnServiceImplement:54] Created successfully
+[2022-06-30 18:01:59] [INFO ] [TurnServiceImplement:64] End: -createTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:02:08] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:02:08] [INFO ] [TurnServiceImplement:54] Created successfully
+[2022-06-30 18:02:08] [INFO ] [TurnServiceImplement:64] End: -createTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:02:35] [INFO ] [TurnServiceImplement:70] Start: -readTurnById- in <<TurnServiceImplement>>
+[2022-06-30 18:02:35] [INFO ] [TurnServiceImplement:85] End: -readTurnById- in <<TurnServiceImplement>>
+[2022-06-30 18:02:41] [INFO ] [TurnServiceImplement:91] Start: -readAllTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:02:41] [INFO ] [TurnServiceImplement:99] End: -readAllTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:02:50] [INFO ] [TurnServiceImplement:105] Start: -readAllTurnByDentistId- in <<TurnServiceImplement>>
+[2022-06-30 18:02:50] [INFO ] [TurnServiceImplement:133] End: -readAllTurnByDentistId- in <<TurnServiceImplement>>
+[2022-06-30 18:02:55] [INFO ] [TurnServiceImplement:139] Start: -readAllTurnByPatientId- in <<TurnServiceImplement>>
+[2022-06-30 18:02:55] [INFO ] [TurnServiceImplement:167] End: -readAllTurnByPatientId- in <<TurnServiceImplement>>
+[2022-06-30 18:03:29] [INFO ] [TurnServiceImplement:139] Start: -readAllTurnByPatientId- in <<TurnServiceImplement>>
+[2022-06-30 18:03:29] [INFO ] [TurnServiceImplement:167] End: -readAllTurnByPatientId- in <<TurnServiceImplement>>
+[2022-06-30 18:03:42] [INFO ] [TurnServiceImplement:173] Start: -updateTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:03:42] [INFO ] [TurnServiceImplement:70] Start: -readTurnById- in <<TurnServiceImplement>>
+[2022-06-30 18:03:42] [INFO ] [TurnServiceImplement:85] End: -readTurnById- in <<TurnServiceImplement>>
+[2022-06-30 18:03:42] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:03:42] [INFO ] [TurnServiceImplement:54] Created successfully
+[2022-06-30 18:03:42] [INFO ] [TurnServiceImplement:64] End: -createTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:03:42] [INFO ] [TurnServiceImplement:199] End: -updateTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:03:42] [INFO ] [TurnServiceImplement:173] Start: -updateTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:03:42] [INFO ] [TurnServiceImplement:70] Start: -readTurnById- in <<TurnServiceImplement>>
+[2022-06-30 18:03:42] [INFO ] [TurnServiceImplement:85] End: -readTurnById- in <<TurnServiceImplement>>
+[2022-06-30 18:03:42] [INFO ] [TurnServiceImplement:43] Start: -createTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:03:42] [INFO ] [TurnServiceImplement:54] Created successfully
+[2022-06-30 18:03:42] [INFO ] [TurnServiceImplement:64] End: -createTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:03:42] [INFO ] [TurnServiceImplement:199] End: -updateTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:03:50] [INFO ] [TurnServiceImplement:173] Start: -updateTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:03:50] [ERROR] [TurnServiceImplement:195] Something went wrong when executing -updateTurn- NULL TURN ID
+[2022-06-30 18:03:50] [INFO ] [TurnServiceImplement:199] End: -updateTurn- in <<TurnServiceImplement>>
+[2022-06-30 18:04:01] [INFO ] [TurnServiceImplement:205] Start: -deleteTurnById- in <<TurnServiceImplement>>
+[2022-06-30 18:04:01] [INFO ] [TurnServiceImplement:70] Start: -readTurnById- in <<TurnServiceImplement>>
+[2022-06-30 18:04:01] [INFO ] [TurnServiceImplement:85] End: -readTurnById- in <<TurnServiceImplement>>
+[2022-06-30 18:04:01] [INFO ] [TurnServiceImplement:214] End: -deleteTurnById- in <<TurnServiceImplement>>
+[2022-06-30 18:04:03] [INFO ] [TurnServiceImplement:205] Start: -deleteTurnById- in <<TurnServiceImplement>>
+[2022-06-30 18:04:03] [INFO ] [TurnServiceImplement:70] Start: -readTurnById- in <<TurnServiceImplement>>
+[2022-06-30 18:04:03] [INFO ] [TurnServiceImplement:85] End: -readTurnById- in <<TurnServiceImplement>>
+[2022-06-30 18:04:03] [INFO ] [TurnServiceImplement:214] End: -deleteTurnById- in <<TurnServiceImplement>>
+[2022-06-30 19:15:19] [INFO ] [DentistServiceImplement:103] Start: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 19:15:19] [INFO ] [DentistServiceImplement:112] End: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 19:16:29] [INFO ] [DentistServiceImplement:103] Start: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 19:16:30] [INFO ] [DentistServiceImplement:112] End: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 19:38:09] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 19:47:43] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 19:49:02] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 19:55:54] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 20:03:20] [INFO ] [DentistServiceImplement:103] Start: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 20:03:20] [INFO ] [DentistServiceImplement:112] End: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 20:12:18] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 20:12:18] [INFO ] [DentistServiceImplement:103] Start: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 20:12:18] [INFO ] [DentistServiceImplement:112] End: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 21:28:21] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-06-30 21:28:21] [INFO ] [DentistServiceImplement:103] Start: -readAllDentist- in <<DentistServiceImplement>>
+[2022-06-30 21:28:21] [INFO ] [DentistServiceImplement:112] End: -readAllDentist- in <<DentistServiceImplement>>
+[2022-07-01 09:08:11] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 09:16:12] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 09:16:43] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 09:20:55] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 09:29:03] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 09:34:15] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 10:52:29] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 10:52:29] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 10:52:29] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 10:52:29] [INFO ] [DentistServiceImplement:46] Created successfully
+[2022-07-01 10:52:29] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 10:53:16] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 10:53:16] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 10:53:16] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 10:53:16] [INFO ] [DentistServiceImplement:46] Created successfully
+[2022-07-01 10:53:16] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 10:54:20] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 10:54:20] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 10:54:20] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 10:54:20] [INFO ] [DentistServiceImplement:46] Created successfully
+[2022-07-01 10:54:20] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 11:13:25] [INFO ] [DentistServiceImplement:152] Start: -deleteDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:13:25] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:16:30] [INFO ] [DentistServiceImplement:152] Start: -deleteDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:16:30] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:16:30] [ERROR] [DentistServiceImplement:74] NULL ID -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:16:30] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:16:30] [INFO ] [DentistServiceImplement:161] End: -deleteDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:17:41] [INFO ] [DentistServiceImplement:152] Start: -deleteDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:17:41] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:17:41] [ERROR] [DentistServiceImplement:74] NULL ID -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:17:41] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:17:41] [INFO ] [DentistServiceImplement:161] End: -deleteDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:19:11] [INFO ] [DentistServiceImplement:152] Start: -deleteDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:19:11] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:19:11] [ERROR] [DentistServiceImplement:74] NULL ID -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:19:11] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:19:11] [INFO ] [DentistServiceImplement:161] End: -deleteDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:19:32] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:19:32] [ERROR] [DentistServiceImplement:74] NULL ID -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:19:32] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:20:58] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:24:15] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:25:12] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:25:51] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:26:41] [INFO ] [DentistServiceImplement:62] Start: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 11:26:42] [INFO ] [DentistServiceImplement:78] End: -readDentistById- in <<DentistServiceImplement>>
+[2022-07-01 12:12:40] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 12:12:40] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 12:12:40] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 12:12:40] [INFO ] [DentistServiceImplement:46] Created successfully
+[2022-07-01 12:12:40] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 12:13:31] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 12:13:31] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 12:13:31] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 12:13:31] [INFO ] [DentistServiceImplement:46] Created successfully
+[2022-07-01 12:13:31] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 12:22:56] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 12:22:56] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 12:22:56] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 12:22:56] [INFO ] [DentistServiceImplement:46] Created successfully
+[2022-07-01 12:22:56] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 21:42:41] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 21:42:41] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 21:42:41] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 21:42:41] [INFO ] [DentistServiceImplement:46] Created successfully
+[2022-07-01 21:42:41] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 22:01:44] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 22:01:44] [INFO ] [DentistServiceImplement:84] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 22:01:44] [INFO ] [DentistServiceImplement:97] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 22:01:44] [INFO ] [DentistServiceImplement:46] Created successfully
+[2022-07-01 22:01:44] [INFO ] [DentistServiceImplement:56] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 22:13:47] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 22:13:47] [INFO ] [DentistServiceImplement:86] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 22:13:47] [INFO ] [DentistServiceImplement:99] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 22:13:47] [INFO ] [DentistServiceImplement:48] Created successfully
+[2022-07-01 22:13:47] [INFO ] [DentistServiceImplement:58] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 22:14:52] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 22:14:52] [INFO ] [DentistServiceImplement:88] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 22:14:52] [INFO ] [DentistServiceImplement:101] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 22:14:52] [INFO ] [DentistServiceImplement:50] Created successfully
+[2022-07-01 22:14:52] [INFO ] [DentistServiceImplement:60] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 22:15:33] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 22:15:33] [INFO ] [DentistServiceImplement:88] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 22:15:33] [INFO ] [DentistServiceImplement:101] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 22:15:33] [INFO ] [DentistServiceImplement:50] Created successfully
+[2022-07-01 22:15:33] [INFO ] [DentistServiceImplement:60] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:04:22] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:04:22] [INFO ] [DentistServiceImplement:88] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:04:22] [INFO ] [DentistServiceImplement:101] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:04:22] [INFO ] [DentistServiceImplement:50] Created successfully
+[2022-07-01 23:04:22] [INFO ] [DentistServiceImplement:60] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:06:36] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:06:36] [INFO ] [DentistServiceImplement:88] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:06:36] [INFO ] [DentistServiceImplement:101] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:06:36] [INFO ] [DentistServiceImplement:50] Created successfully
+[2022-07-01 23:06:36] [INFO ] [DentistServiceImplement:60] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:08:09] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:08:09] [INFO ] [DentistServiceImplement:88] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:08:09] [INFO ] [DentistServiceImplement:101] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:08:09] [INFO ] [DentistServiceImplement:50] Created successfully
+[2022-07-01 23:08:09] [INFO ] [DentistServiceImplement:60] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:08:51] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:08:51] [INFO ] [DentistServiceImplement:88] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:08:52] [INFO ] [DentistServiceImplement:101] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:08:52] [INFO ] [DentistServiceImplement:50] Created successfully
+[2022-07-01 23:08:52] [INFO ] [DentistServiceImplement:60] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:09:57] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:09:57] [INFO ] [DentistServiceImplement:88] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:09:57] [INFO ] [DentistServiceImplement:101] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:09:57] [INFO ] [DentistServiceImplement:50] Created successfully
+[2022-07-01 23:09:57] [INFO ] [DentistServiceImplement:60] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:31:27] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:31:27] [INFO ] [DentistServiceImplement:88] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:31:27] [INFO ] [DentistServiceImplement:101] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:31:27] [INFO ] [DentistServiceImplement:50] Created successfully
+[2022-07-01 23:31:27] [INFO ] [DentistServiceImplement:60] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:32:51] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:32:51] [INFO ] [DentistServiceImplement:88] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:32:51] [INFO ] [DentistServiceImplement:101] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:32:51] [INFO ] [DentistServiceImplement:50] Created successfully
+[2022-07-01 23:32:51] [INFO ] [DentistServiceImplement:60] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:34:10] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:34:10] [INFO ] [DentistServiceImplement:88] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:34:10] [INFO ] [DentistServiceImplement:101] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:34:10] [INFO ] [DentistServiceImplement:50] Created successfully
+[2022-07-01 23:34:10] [INFO ] [DentistServiceImplement:60] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:35:34] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:35:34] [INFO ] [DentistServiceImplement:88] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:35:34] [INFO ] [DentistServiceImplement:101] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:35:34] [INFO ] [DentistServiceImplement:50] Created successfully
+[2022-07-01 23:35:34] [INFO ] [DentistServiceImplement:60] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:42:35] [INFO ] [DentistServiceImplement:107] Start: -readAllDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:42:35] [INFO ] [DentistServiceImplement:116] End: -readAllDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:44:33] [INFO ] [DentistServiceImplement:107] Start: -readAllDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:44:33] [INFO ] [DentistServiceImplement:116] End: -readAllDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:44:33] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:44:33] [INFO ] [DentistServiceImplement:88] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:44:33] [INFO ] [DentistServiceImplement:101] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:44:33] [INFO ] [DentistServiceImplement:50] Created successfully
+[2022-07-01 23:44:33] [INFO ] [DentistServiceImplement:60] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:46:57] [INFO ] [DentistServiceImplement:107] Start: -readAllDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:46:57] [INFO ] [DentistServiceImplement:116] End: -readAllDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:46:57] [INFO ] [DentistServiceImplement:37] Start: -createDentist- in <<DentistServiceImplement>>
+[2022-07-01 23:46:57] [INFO ] [DentistServiceImplement:88] Start: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:46:57] [INFO ] [DentistServiceImplement:101] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
+[2022-07-01 23:46:57] [INFO ] [DentistServiceImplement:50] Created successfully
+[2022-07-01 23:46:57] [INFO ] [DentistServiceImplement:60] End: -createDentist- in <<DentistServiceImplement>>

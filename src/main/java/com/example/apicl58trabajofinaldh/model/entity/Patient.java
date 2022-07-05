@@ -21,15 +21,18 @@ public class Patient {
     @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "patient_sec")
     @Column(name = "id_patient")
     private Long idPatient;
+
     @Column(name = "dni", unique = true, nullable = false)
     private Long dni;
+
     @Column(name = "name")
     private String name;
+
     @Column(name = "surname")
     private String surname;
+
     @Column(name = "registration_date")
     private Timestamp registrationDate;
-
 
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "address_id")

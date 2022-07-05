@@ -1,6 +1,6 @@
 #files
 *.zip
-
+*.db
 
 target/
 pom.xml.tag

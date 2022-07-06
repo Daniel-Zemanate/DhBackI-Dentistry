@@ -10,6 +10,8 @@ import java.sql.Timestamp;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
+@ToString
+@EqualsAndHashCode
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class PatientDTO {
 

@@ -10,6 +10,8 @@ import java.util.Set;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
+@ToString
+@EqualsAndHashCode
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class DentistDTO {
 

@@ -39,11 +39,7 @@ public class DentistServiceImplement implements DentistServiceInterface {
         DentistDTO dentistDTOCheckLicense = new DentistDTO();
 
         if (dentist.getLicensePlate() != null){
-            System.out.println(dentist);
-            System.out.println(dentistDTOCheckLicense.getLicensePlate());
             dentistDTOCheckLicense = readDentistByLicensePlate(dentist.getLicensePlate());
-            System.out.println(dentist);
-            System.out.println(dentistDTOCheckLicense.getLicensePlate());
 
             if (dentist.getIdDentist() != null || dentistDTOCheckLicense.getIdDentist() == null){
                 createdDentistDTO = mapper.convertValue(dentistRepository.save(dentist), DentistDTO.class);

@@ -1,6 +1,5 @@
 package com.example.apicl58trabajofinaldh.model.entity;
 
-//TODO: FALTA COMPLETAR LAS UNIONES DE ROL Y USUARIO VER - UNOaMUCHOS Y MUCHOSaMUCHOS
 
 import lombok.*;
 
@@ -12,7 +11,7 @@ import javax.persistence.*;
 @NoArgsConstructor
 @ToString
 @Entity
-@Table(name = "usery")
+@Table(name = "app_user")
 public class User {
 
     @Id

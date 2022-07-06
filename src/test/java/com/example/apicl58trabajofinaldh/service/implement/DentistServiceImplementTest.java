@@ -21,9 +21,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 import static org.junit.jupiter.api.Assertions.*;
-//TODO:HACER TEST DE IMPLEMENTACIONES
 
-//@DataJpaTest
 @SpringBootTest
 class DentistServiceImplementTest {
 
@@ -50,58 +48,31 @@ class DentistServiceImplementTest {
         Dentist dentist = new Dentist(null,"L1","N1","S1",null);
         Mockito.when(dentistRepository.save(dentist)).thenReturn(new Dentist(1L,"L1","N1","S1",null));
 
+        System.out.println(dentist);
+        System.out.println(dentistRepository.save(dentist));
+        System.out.println(dentistService.createDentist(dentist).getIdDentist());
         assertNotNull(dentistService.createDentist(dentist).getIdDentist());
     }
 
-    //TODO: REVISAR TESTS DESDE AQUI
     @Test
-    void return_empty_dentist_dto_when_a_dentist_is_created_with_repeated_licence() {
-        Dentist dentist = new Dentist(null, "L1","N1","S1",null);
+    void return_empty_dentist_dto_when_read_a_non_exist_id_dentist() {
+        Long id = 666L;
+        Mockito.when(dentistRepository.findById(id)).thenReturn(Optional.of(new Dentist()));
 
-//        dentistService.readDentistByLicensePlate("L1");
-        Mockito.when(dentistRepository.findByLicensePlate(null)).thenReturn(Optional.of(new Dentist()));
-
-//        Mockito.when(dentistRepository.findByLicensePlate("L1")).thenReturn(Optional.of(new Dentist(1L,"L1","Pepe","Grajales",null)));
-
-        Mockito.when(dentistRepository.save(dentist)).thenReturn(new Dentist(null,null,null,null,null));
-
-
-
-//        assertNull(dentistService.createDentist(dentist).getIdDentist());
-        assertEquals(3,dentistService.readAllDentist().size());
-        assertEquals(null,dentistService.createDentist(dentist).getIdDentist());
-    }
-
-    @Test
-    void return_empty_dentist_dto_when_find_a_dentist_by_null_id() {
-        Dentist dentist = new Dentist();
-        Long id = null;
-        Mockito.when(dentistRepository.findById(id)).thenReturn(Optional.of(dentist));
+        System.out.println(dentistRepository.findById(id));
+        System.out.println(dentistService.readDentistById(id).getIdDentist());
 
         assertNull(dentistService.readDentistById(id).getIdDentist());
     }
 
     @Test
-    void return_empty_dentist_dto_when_find_a_dentist_by_negative_id() {
-        Dentist dentist = new Dentist();
-        Long id = -1L;
-        Mockito.when(dentistRepository.findById(id)).thenReturn(Optional.of(dentist));
+    void return_dentist_dto_list_when_read_all() {
 
-        assertNull(dentistService.readDentistById(id).getIdDentist());
-    }
-
-    @Test
-    void return_empty_dentist_dto_when_a_dentist_is_deleted_by_null_id() {
-        Dentist dentist = new Dentist();
-        Long id = null;
-        Mockito.when(dentistRepository.findById(id)).thenReturn(Optional.of(dentist));
-
-        assertNull(dentistService.deleteDentistById(id).getIdDentist());
-    }
-
-
-    private List getLicences(List<Dentist> dentistList){
-        return dentistList.stream().map(Dentist::getLicensePlate).collect(Collectors.toList());
+        assertEquals(Arrays.asList(
+                new DentistDTO(1L,"L1","Pepe","Grajales"),
+                new DentistDTO(2L,"L2","Paula","Mora"),
+                new DentistDTO(3L,"L3","Juliana","Restrepo")
+        ), dentistService.readAllDentist());
     }
 
 

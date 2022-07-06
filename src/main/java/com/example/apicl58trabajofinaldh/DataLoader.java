@@ -6,7 +6,10 @@ import com.example.apicl58trabajofinaldh.repository.UserRespository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
+import org.springframework.stereotype.Component;
 
+//-------------------*******NOTE*******--------------------------
+@Component
 public class DataLoader implements ApplicationRunner {
 
 

@@ -839,3 +839,8 @@
 [2022-07-01 23:46:57] [INFO ] [DentistServiceImplement:101] End: -readDentistByLicensePlate- in <<DentistServiceImplement>>
 [2022-07-01 23:46:57] [INFO ] [DentistServiceImplement:50] Created successfully
 [2022-07-01 23:46:57] [INFO ] [DentistServiceImplement:60] End: -createDentist- in <<DentistServiceImplement>>
+[2022-07-05 23:05:18] [INFO ] [AddressServiceImplement:34] Start: -createAddress- in <<AddressServiceImplement>>
+[2022-07-05 23:05:18] [INFO ] [AddressServiceImplement:36] Created successfully
+[2022-07-05 23:05:18] [INFO ] [AddressServiceImplement:38] End: -createAddress- in <<AddressServiceImplement>>
+[2022-07-05 23:06:15] [INFO ] [AddressServiceImplement:65] Start: -readAllAddress- in <<AddressServiceImplement>>
+[2022-07-05 23:06:15] [INFO ] [AddressServiceImplement:73] End: -readAllAddress- in <<AddressServiceImplement>>

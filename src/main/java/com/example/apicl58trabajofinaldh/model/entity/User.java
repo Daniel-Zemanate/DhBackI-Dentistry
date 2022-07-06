@@ -12,7 +12,7 @@ import javax.persistence.*;
 @NoArgsConstructor
 @ToString
 @Entity
-@Table(name = "user")
+@Table(name = "usery")
 public class User {
 
     @Id
@@ -26,8 +26,16 @@ public class User {
 
     @Column(name = "password")
     private String password;
-
-    @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "role_id")
+//
+//    @ManyToOne(fetch = FetchType.LAZY)
+//    @JoinColumn(name = "role_id")
+//    private Role role;
+    @Enumerated(EnumType.STRING)
     private Role role;
+
+    public User(String username, String password, Role role) {
+        this.username = username;
+        this.password = password;
+        this.role = role;
+    }
 }

@@ -32,7 +32,8 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
             // other public endpoints of your API may be appended to this array
             // -- interface from db
             "/h2-console/**",
-            "/authenticate/**"
+            "/authenticate/**",
+            "/bienvenido.html","/authenticate", "/login.html", "/styles/**", "/assets/**", "/scripts/**", "/signup.html"
     };
 
     @Autowired

@@ -47,30 +47,22 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
         auth.userDetailsService(authenticationService);
     }
 
-    //TODO: REVISAR EL COMPORTAMIENTO DE LOS ENDPOINTS AL USAR ADMIN Y USER
     @Override
     protected void configure(HttpSecurity http) throws Exception {
-//        http.csrf().disable().authorizeRequests().antMatchers(AUTH_WHITELIST).permitAll();
-//        http.csrf().disable().authorizeRequests().antMatchers("/authenticate/**").permitAll();
-//        http.csrf().disable().authorizeRequests().antMatchers("/turn/create/**", "/turn/read/**").hasRole("USER");
-////        http.csrf().disable().authorizeRequests().antMatchers("/address/**", "/patient/**", "/dentist/**", "/turn/**").hasRole("ADMIN").anyRequest().permitAll();
-//        http.csrf().disable().authorizeRequests().antMatchers("/turn/**").hasRole("ADMIN").anyRequest().|;
-//        http.csrf().disable().formLogin().and().logout();
-//
-//        http.headers().frameOptions().disable();
-//
-//        http.addFilterBefore(jwtRequestFilter, UsernamePasswordAuthenticationFilter.class);
 
         http.csrf().disable().authorizeRequests()
-                .antMatchers("/address/**", "/patient/**", "/dentist/**", "/turn/**").hasRole("ADMIN")
+                .antMatchers("/address/**", "/patient/**", "/dentist/**").hasRole("ADMIN")
+                .antMatchers( "/turn/**").hasAnyRole("USER", "ADMIN")
                 .and()
                 .authorizeRequests()
-                .antMatchers("/turn/**").hasRole("USER")
                 .and()
                 .authorizeRequests()
                 .antMatchers(AUTH_WHITELIST)
                 .permitAll().anyRequest().authenticated()
                 .and().sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS);
+
+        http.headers().frameOptions().disable();
+
         http.addFilterBefore(jwtRequestFilter, UsernamePasswordAuthenticationFilter.class);
     }
 
